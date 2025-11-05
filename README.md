@@ -128,5 +128,5 @@ contact **Amr Shah** — creator of this plugin and lead developer at [Silver An
 - **Email:** hello@silverantmarketing.com  
 - **LinkedIn:** [https://linkedin.com/company/silverantmarketing](https://linkedin.com/company/silverantmarketing)  
 
-We build scalable tools, custom dashboards, and performance-focused WordPress solutions for businesses worldwide.
+We build scalable tools, custom dashboards, and performance-focused WordPress/custom solutions for businesses worldwide.
 
