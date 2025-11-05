@@ -121,7 +121,7 @@ For support, improvements, or contributions, please open an issue or submit a pu
 ## Developer Contact
 
 For professional WordPress development, performance optimization, or custom plugin work,  
-contact **Amr Shah** — creator of this plugin and lead developer at [Silver Ant Marketing](https://amrshah.github.io).
+contact **Amr Shah** — creator of this plugin and lead developer at [AlamiaSoft](https://amrshah.github.io).
 
 - **Website:** [https://amrshah.github.io](https://amrshah.github.io)  
 - **GitHub:** [https://github.com/amrshah](https://github.com/amrshah)  
