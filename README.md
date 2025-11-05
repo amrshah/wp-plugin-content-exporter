@@ -117,3 +117,16 @@ This plugin is licensed under the [GPLv2 or later](https://www.gnu.org/licenses/
 Developed by the **AmrShah**
 
 For support, improvements, or contributions, please open an issue or submit a pull request on GitHub.
+
+## Developer Contact
+
+For professional WordPress development, performance optimization, or custom plugin work,  
+contact **Amr Shah** — creator of this plugin and lead developer at [Silver Ant Marketing](https://silverantmarketing.com).
+
+- **Website:** [https://silverantmarketing.com](https://silverantmarketing.com)  
+- **GitHub:** [https://github.com/amrshah](https://github.com/amrshah)  
+- **Email:** hello@silverantmarketing.com  
+- **LinkedIn:** [https://linkedin.com/company/silverantmarketing](https://linkedin.com/company/silverantmarketing)  
+
+We build scalable tools, custom dashboards, and performance-focused WordPress solutions for businesses worldwide.
+
