@@ -114,6 +114,6 @@ This plugin is licensed under the [GPLv2 or later](https://www.gnu.org/licenses/
 
 ## Credits
 
-Developed by the **AlamiaSoft** team.
+Developed by the **AmrShah**
 
 For support, improvements, or contributions, please open an issue or submit a pull request on GitHub.
